@@ -1,0 +1,143 @@
+obs_columns
+orig.ident
+nCount_RNA
+nFeature_RNA
+percent.mt
+Sample
+hash_id
+timepoint
+patient
+car
+disease
+ag
+nCount_ADT
+nFeature_ADT
+S.Score
+G2M.Score
+Phase
+old.ident
+nCount_SCT
+nFeature_SCT
+SCT_snn_res.0.8
+seurat_clusters
+celltype
+Clusters
+SCT_snn_res.1.5
+sub.cluster.1
+sub.cluster
+sub.cluster.7
+SCT_snn_res.1
+SCT_snn_res.1.1
+sub.cluster.5
+integrated_clusters
+seurat_clusters_scatas
+seurat_clusters_scatas_unlabF
+seurat_clusters_scatas_noF
+integrated_snn_res.0.3
+subcluster.2
+subcluster.0
+SCT_snn_res.1.2
+integrated_snn_res.0.5
+integrated_snn_res.0.7
+integrated_snn_res.0.8
+integrated_snn_res.0.9
+subcluster.4
+subcluster_5
+Giles_mouse_all_Naive1
+Giles_mouse_all_MP1
+Giles_mouse_all_Eff1
+Giles_mouse_all_CTL1
+Giles_mouse_all_Trans I1
+Giles_mouse_all_Trans II1
+Giles_mouse_all_Trans CTL1
+Giles_mouse_all_Mem1
+Giles_mouse_all_Pre-Exh1
+Giles_mouse_all_Eff-like1
+Giles_mouse_all_Prolif II1
+Giles_mouse_all_Prolif I1
+Giles_mouse_all_Exh-Prog1
+Giles_mouse_all_ISG1
+Giles_mouse_all_Exh-Int1
+Giles_mouse_all_Exh-KLR1
+Giles_mouse_all_Exh-HSP1
+Giles_mouse_all_Exh-Term1
+Giles_mouse_all_Exh-Term Gzma1
+Krishna_A__CD8A+ Exhausted1
+Krishna_A__CD8A+ Exhausted IEG1
+Krishna_A__CD8A+ Proliferating1
+Krishna_A__CD8A+ Tissue-resident1
+Krishna_A__CD8A+ NK-like1
+Krishna_A__CD4+ Naive1
+Krishna_A__CD4+ Treg1
+Krishna_A__CD4+ Activated IEG1
+Krishna_A__CD4+ Effector1
+Krishna_A__CD4+ Proliferating1
+Krishna_A__B cell1
+Krishna_A__Conventional NK1
+Krishna_A__NK HSP+1
+Krishna_A__TAM HLAhi1
+Krishna_A__TAM HLAint1
+Krishna_A__TAM ISGint1
+Krishna_A__cDC21
+Krishna_A__cDC11
+Krishna_A__pDC1
+Krishna_A__CD14+ Monocyte1
+Krishna_A__CD14+/CD16+ Monocyte1
+Krishna_A__Mast1
+Krishna_A__TAM ISGhi1
+Krishna_A_CD4_8__CD4+ Naive1
+Krishna_A_CD4_8__CD4+ Treg1
+Krishna_A_CD4_8__CD4+ Activated IEG1
+Krishna_A_CD4_8__CD4+ Effector1
+Krishna_A_CD4_8__CD4+ Proliferating1
+Krishna_A_CD4_8__CD8A+ Exhausted1
+Krishna_A_CD4_8__CD8A+ Exhausted IEG1
+Krishna_A_CD4_8__CD8A+ Proliferating1
+Krishna_A_CD4_8__CD8A+ Tissue-resident1
+Krishna_A_CD4_8__CD8A+ NK-like1
+subcluster_2
+CD4+Th1_Bai1
+Th1/Tc1_Bai1
+CD8+XCL1/2+_Bai1
+CD4+Cytotoxic_Bai1
+CD4+Th2/Th9/Th17_Bai1
+Tc1/Tc2_Bai1
+CD4+Activated-FOS/JUN+_Bai1
+CD4+Immune-signaling_Bai1
+CD4+Treg_Bai1
+Proliferative_S_Bai1
+Proliferative_G2M_Bai1
+CD4+Memory_Bai1
+CD4+Basal-FOS/JUN+_Bai1
+Proliferative_G2M/S_Bai1
+CD8+Naive_Bai1
+CD8+Cytotoxic_Bai1
+MHC II+_Bai1
+Bai_CD4+Th11
+Bai_Th1/Tc11
+Bai_CD8+XCL1/2+1
+Bai_CD4+Cytotoxic1
+Bai_CD4+Th2/Th9/Th171
+Bai_Tc1/Tc21
+Bai_CD4+Activated-FOS/JUN+1
+Bai_CD4+Immune-signaling1
+Bai_CD4+Treg1
+Bai_Proliferative_S1
+Bai_Proliferative_G2M1
+Bai_CD4+Memory1
+Bai_CD4+Basal-FOS/JUN+1
+Bai_Proliferative_G2M/S1
+Bai_CD8+Naive1
+Bai_CD8+Cytotoxic1
+Bai_MHC II+1
+pt_id
+subcluster_0
+celltype_new
+integrated_clusters_0.7
+timepoint_new
+car_new
+subset
+celltype_new2
+cd4_cd8
+select_p54
+sub.cluster.p54
